@@ -1,6 +1,6 @@
 /* Global Variables */
 //const myCityID = 2884878;
-const myZIP = 33101;
+const myZIP = 10001; //somewhwere in New York
 const myApiKey = "e3fc7bbc056d167d99d73a964e1efc27";
 let cityZipCode = myZIP;
 let urlOpenWeatherMap = `http://api.openweathermap.org/data/2.5/weather?zip=${myZIP}&appid=${myApiKey}&units=metric`;
